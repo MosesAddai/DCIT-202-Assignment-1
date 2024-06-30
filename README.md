@@ -12,3 +12,9 @@ This project consists of several JavaScript functions split across two files: `a
 
 2. **userInfo.js**
    - `createUserProfiles(names, modifiedNames)`: Generates user profiles with original and modified names.
+  
+   - My School Email is maddai-baffour_owusu@st.ug.edu.gh
+   - My School Email is maddai-baffour_owusu@st.ug.edu.gh
+   - My School Email is maddai-baffour_owusu@st.ug.edu.gh
+   - My School Email is maddai-baffour_owusu@st.ug.edu.gh
+   - My School Email is maddai-baffour_owusu@st.ug.edu.gh
